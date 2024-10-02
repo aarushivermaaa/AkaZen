@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 AkaZen
 
 A simple Streamlit app template for you to modify!
 
